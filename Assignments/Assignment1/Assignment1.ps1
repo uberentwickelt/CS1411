@@ -50,7 +50,6 @@ $AssignmentNumber = "1"
 
 
 #----------------------------------------------------------[CMDLET]-------------------------------------------------------
-### CMDLETS are 
 ### Output all files in C:\Windows\System32 using the cmdlet: Get-ChildItem
 ## YOUR CODE HERE
 
