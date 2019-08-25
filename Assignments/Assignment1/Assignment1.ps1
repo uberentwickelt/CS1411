@@ -16,7 +16,7 @@
 $AssignmentNumber = "1"
 #----------------------------------------------------------[Variables]-------------------------------------------------------
 ### You can store all types of values in PowerShell variables. A variable is a unit of memory in which values are stored. 
-### Create a two int variables ($i and $x) and set the value of them to 200 and 300
+### Create a two int variables ($i and $x) and set the value of them to 200 and 305
 ## YOUR CODE HERE
 
 
