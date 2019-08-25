@@ -1,21 +1,21 @@
-Assignment 1
+# Assignment 1
 
-Script Language: Powershell
+**Script Language:** PowerShell </br>
+**VM:** CS1411-WX</br>
+**Assignment File:** Assignments/Assignment1/Assignment1.ps1</br>
 
-VM: CS1411
+**Goal of assignment:** In this assignment, you will will demonstrate some basic PowerShell knowledge
 
-Assignment File: Assignments/Assignment1.ps1
+1. Use of variables
 
-Goal of assignment: In this assignment, you will become more familiar with Powershell in three key core concepts.
+2. Use of arrays
 
-1. Writing functions
-
-2. Passing arguments
-
-3. Returning Values 
+3. Use of CMDLETs
 
 Visit https://github.com/lhundt-ung/CS1411 to obtain directions on how to sync the base assignment file to your lab machine.
 
-Submit the completed Assignment file in D2L. Please note, submissions will only be accepted through D2L. 
+**Important** Submit your completed assignment to D2L as assignment1-<username>.ps1. For example, assignment1-lhundt.ps1
+
+Points will be deducted for not submitting the assignment correctly. Submissions will only be accepted through D2L. 
 
 Good Luck!
