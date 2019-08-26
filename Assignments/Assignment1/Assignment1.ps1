@@ -39,12 +39,12 @@ $AssignmentNumber = "1"
 
 #----------------------------------------------------------[Arrays]-------------------------------------------------------
 ### Arrays are powerfull datatype that can store a collection of items.
-### Create an array ($arr) and sest it to a collection of integers (10,20,30,40,50,60,70,80,90,100)
+### Create an array ($arr) and set it to a collection of integers (10,20,30,40,50,60,70,80,90,100)
 ## YOUR CODE HERE
 
 
 
-### Add the 2nd item and 2nd to last item in the array. (10,->20<-,30,40,50,60,70,80,->90<-,100)
+### Get 2nd item and 2nd to last item in the array and add those two values together. (10,->20<-,30,40,50,60,70,80,->90<-,100)
 ## YOUR CODE HERE
 
 
