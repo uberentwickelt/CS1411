@@ -47,8 +47,8 @@ $victim =
 
 {
 
-    # Now you are ready to begin your brute force attack! Write a looping method to itereate through each
-    # common password in the password file. 
+    # Now you are ready to begin testing each password for your brute force attack! 
+    # Write a foreach loop method to itereate through each common password in the password file. 
     # (Hint: You should be calling the variable that contains all passwords)
     # YOUR CODE BELOW HERE 
 
