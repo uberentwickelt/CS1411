@@ -1,4 +1,8 @@
-﻿$pwHash = "C9-7F-06-94-16-2F-76-52-42-5C-B4-94-A1-DD-F5-5E"
+﻿##### IMPORTANT ###################
+#    DO NOT MODIFY THIS SCRIPT    #
+###################################
+
+$pwHash = "C9-7F-06-94-16-2F-76-52-42-5C-B4-94-A1-DD-F5-5E"
 $md5 = New-Object -TypeName System.Security.Cryptography.MD5CryptoServiceProvider
 $utf8=new-object -TypeName System.Text.UTF8Encoding
  
