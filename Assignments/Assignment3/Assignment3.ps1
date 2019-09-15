@@ -3,7 +3,7 @@
     Assignment 2 - Parsing text files
 .DESCRIPTION
     Our Security monitoring systems have alerted us of a suspicious IP address that is 
-    attempting to access multiple systems on the network. This assignment we will be examing 
+    attempting to access multiple systems on the network. This assignment we will be examining 
     two log files with over 300K lines of data. We will use our techniques learned in class to 
     find critical information for our investigation. And hopefully no sensitive data was stolen.
 .INPUTS
@@ -139,3 +139,4 @@ function logSearcher($dir,$text,$showLogs)
 ## A helper function has been provided called incidentCost
 ## Each type of sensitive data above can be used arguments for this function
 ## HINT: Estimated loss to the business is greater than $200K
+## YOUR CODE BELOW HERE
