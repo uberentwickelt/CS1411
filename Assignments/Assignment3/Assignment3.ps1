@@ -139,3 +139,4 @@ function logSearcher($dir,$text,$showLogs)
 ## A helper function has been provided called incidentCost
 ## Each type of sensitive data above can be used arguments for this function
 ## HINT: Estimated loss to the business is greater than $200K
+## YOUR CODE BELOW HERE
