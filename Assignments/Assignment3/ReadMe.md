@@ -1,11 +1,11 @@
 # Assignment 3
 
-**Script Language:** Powershell
+**Script Language:** PowerShell
 
 **VM:** CS1411
 
 **Problem:** Our Security monitoring systems have alerted us of a suspicious IP address that is 
-  attempting to access multiple systems on the network. This assignment we will be examing 
+  attempting to access multiple systems on the network. This assignment we will be examining 
   two log files with over 300K lines of data. We will use our techniques learned in class to 
   find critical information for our investigation. And hopefully no sensitive data was stolen.
 
@@ -17,7 +17,7 @@
 
 Visit https://github.com/lhundt-ung/CS1411 to obtain directions on how to sync the base assignment file to your lab machine.
 
-If you have been successful in cloning the directory as in Assingment1, you only need to run git pull inside of CS1411
+If you have been successful in cloning the directory as in Assignment1, you only need to run git pull inside of CS1411
 
 **Important** You will only edit Assignment3.ps1 for this assignment. Submit your completed assignment to D2L as assignment2-<username>.ps1. For example, assignment3-lhundt1234.ps1
 
