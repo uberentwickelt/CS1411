@@ -50,6 +50,15 @@ function incidentCost($cc,$ssn)
 }
 
 #--------------------------------------[Assignment Code]--------------------------------------
+##### IMPORTANT ############################################################################################
+# Make sure your shell window is currently in the Assignment3 folder.                                      #
+# For example, you should see PS C:\Users\CS1411\CS1411\Assignments\Assignment3>                           #
+# One way is to run "cd C:\Users\CS1411\CS1411\Assignments\Assignment3" before starting the assignment     #
+# Run ls to verify you see all 1 file and two directories                                                  #
+#. Assignment3.ps1, Logs, and Data                                                                         #
+############################################################################################################
+
+
 
 ## 1. Search all files located in your .\Logs folder.  
 ## You will need to find all entries with "187.76.80.202". Follow the instructions below...
