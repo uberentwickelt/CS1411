@@ -23,9 +23,7 @@
 - Execute the following 3 commands> pwd, whoami, and date
 - Take a screenshot of your Kali Linux VM and save as 4-lhundt1234.jpg
 
-
-Deliverables: 3 screenshots of completed Labex.io excercises. 1 screenshot of a running instance of Kali Linux
-
+**Deliverables:** 3 screenshots of completed Labex.io excercises. 1 screenshot of a running instance of Kali Linux
 
 Points will be deducted for not submitting the assignment correctly. Submissions will only be accepted through D2L. 
 
