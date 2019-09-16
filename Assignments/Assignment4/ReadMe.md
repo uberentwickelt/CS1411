@@ -18,7 +18,7 @@
 
 4. Take a screenshot of the "Congratulations you have completed Exercise X" at the end of each exerise. Snipping Tool or PrintScrn both will work. Save each screenshot with the Exercise Number followed by -<username>. For example, 1-lhundt1234.jpg, 2-lhundt1234.jpg, 3-lhundt1234.jpg. Example screenshot below...
 
-![](Excercise1-lhundt.JPG)
+![](Exercise1-lhundt.JPG)
   
 5. Lastly, you will need to power on your Kali Linux VM in VirtualBox. Example screenshot below...
 - Login to your VM
