@@ -11,12 +11,12 @@
 2. Search or go to the Linux basic commands lesson - https://labex.io/courses/linux-basic-commands-practice-online
 ![](LabEx-Example.JPG)
 
-3. Complete the following excercises 
+3. Complete the following exercises 
 * Exercise 1 - ls, cd, pwd
 * Exercise 2 - mkdir,rm,mv,cp,cat,nl
 * Exercise 3 - more,less,head,tail
 
-4. Take a screenshot of the "Congratulations you have completed Exercise X" at the end of each excerise. Snipping Tool or PrintScrn both will work. Save each screenshot with the Excercise Number followed by -<username>. For example, 1-lhundt1234.jpg, 2-lhundt1234.jpg, 3-lhundt1234.jpg. Example screenshot below...
+4. Take a screenshot of the "Congratulations you have completed Exercise X" at the end of each exerise. Snipping Tool or PrintScrn both will work. Save each screenshot with the Exercise Number followed by -<username>. For example, 1-lhundt1234.jpg, 2-lhundt1234.jpg, 3-lhundt1234.jpg. Example screenshot below...
 
 ![](Excercise1-lhundt.JPG)
   
@@ -28,7 +28,7 @@
 
 ![](KaliLinux.JPG)
 
-**Deliverables:** 3 screenshots of completed Labex.io excercises. 1 screenshot of a running instance of Kali Linux
+**Deliverables:** 3 screenshots of completed Labex.io exercises. 1 screenshot of a running instance of Kali Linux
 
 Points will be deducted for not submitting the assignment correctly. Submissions will only be accepted through D2L. 
 
