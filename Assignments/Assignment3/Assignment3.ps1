@@ -24,14 +24,14 @@
 $AssignmentNumber = "3"
 #--------------------------------------[Helping Functions]--------------------------------------
 # DO NOT MODIFY
-# EXAMPLE USECASE: howMany($results)
+# EXAMPLE USECASE: howMany $results
 function howMany($obj)
 {
     Write-Host "Number of hits: " $obj.count
 }
 
 # DO NOT MODIFY
-# EXAMPLE USECASE: howMany -cc 5 -ssn 15
+# EXAMPLE USECASE: incidentCost -cc 5 -ssn 15
 # cc is the number of Credit Cards Stolen
 # ssn is the number of Social secuirty numbers stolen
 function incidentCost($cc,$ssn)
@@ -127,7 +127,7 @@ function logSearcher($dir,$text,$showLogs)
 
 ## 6. Yikes, let's find out if those files have any sensitive data. Instead of scanning the Logs folder, lets switch to the Data folder
 ## Use Select-String to search all files in the directory .\Data for Social Security Numbers.
-## - SSN in 1234-12-1234 format
+## - SSN in 123-12-1234 format
 ## - HINT: Slide 6 from class may help.
 ## YOUR CODE BELOW HERE
 
