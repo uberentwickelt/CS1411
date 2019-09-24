@@ -19,7 +19,7 @@ Visit https://github.com/lhundt-ung/CS1411 to obtain directions on how to sync 
 
 If you have been successful in cloning the directory as in Assignment1, you only need to run git pull inside of CS1411
 
-**Important** You will only edit Assignment3.ps1 for this assignment. Submit your completed assignment to D2L as assignment2-<username>.ps1. For example, assignment3-lhundt1234.ps1
+**Important** You will only edit Assignment3.ps1 for this assignment. Submit your completed assignment to D2L as assignment3-<username>.ps1. For example, assignment3-lhundt1234.ps1
 
 Points will be deducted for not submitting the assignment correctly. Submissions will only be accepted through D2L. 
 
